@@ -41,6 +41,6 @@ export const Badge = (props: Props) => {
   })
 
   return (
-    
+    <span></span>
   )
 }
